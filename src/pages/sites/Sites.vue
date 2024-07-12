@@ -1,0 +1,3 @@
+<template>
+  <sites-table />
+</template>
