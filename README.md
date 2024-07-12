@@ -7,7 +7,7 @@ This project is designed as a part of a technical challenge that showcases a Sit
 ```bash
 git clone https://github.com/spahiubleron/temp-challenge-bleron.git
 
-cd temp-challenge
+cd ./temp-challenge-bleron
 
 npm install
 ```
